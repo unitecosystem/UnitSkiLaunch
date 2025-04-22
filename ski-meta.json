@@ -1,0 +1,12 @@
+{
+  "name": "UNIT SKI LAUNCH",
+  "symbol": "SKILCH",
+  "description": "Tokenize winter sports on Unit Network. Participate in the winter sports token economy.",
+  "image": "https://raw.githubusercontent.com/unitecosystem/UnitSkiLaunch/main/SkiLaunch512.png",
+  "creator": {
+    "name": "UNIT SKI LAUNCH",
+    "site": "https://ski.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}
